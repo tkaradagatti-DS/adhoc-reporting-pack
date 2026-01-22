@@ -1,0 +1,304 @@
+customer_id,customer_name,region,segment
+C40000,Customer 000,North,SMB
+C40001,Customer 001,North,Enterprise
+C40002,Customer 002,North,SMB
+C40003,Customer 003,North,Mid-Market
+C40004,Customer 004,Wales,SMB
+C40005,Customer 005,North,Mid-Market
+C40006,Customer 006,North,SMB
+C40007,Customer 007,Wales,SMB
+C40008,Customer 008,East Midlands,SMB
+C40009,Customer 009,Wales,SMB
+C40010,Customer 010,West Midlands,SMB
+C40011,Customer 011,West Midlands,Enterprise
+C40012,Customer 012,East Midlands,Mid-Market
+C40013,Customer 013,North,Enterprise
+C40014,Customer 014,Scotland,Mid-Market
+C40015,Customer 015,London,Mid-Market
+C40016,Customer 016,North,SMB
+C40017,Customer 017,London,Enterprise
+C40018,Customer 018,Scotland,SMB
+C40019,Customer 019,Wales,SMB
+C40020,Customer 020,Scotland,Mid-Market
+C40021,Customer 021,London,Enterprise
+C40022,Customer 022,Scotland,SMB
+C40023,Customer 023,East Midlands,SMB
+C40024,Customer 024,Wales,Mid-Market
+C40025,Customer 025,Wales,Mid-Market
+C40026,Customer 026,North,SMB
+C40027,Customer 027,North,Mid-Market
+C40028,Customer 028,West Midlands,SMB
+C40029,Customer 029,London,SMB
+C40030,Customer 030,East Midlands,Mid-Market
+C40031,Customer 031,London,SMB
+C40032,Customer 032,North,Mid-Market
+C40033,Customer 033,London,SMB
+C40034,Customer 034,Scotland,Mid-Market
+C40035,Customer 035,Wales,SMB
+C40036,Customer 036,North,Enterprise
+C40037,Customer 037,London,Mid-Market
+C40038,Customer 038,West Midlands,SMB
+C40039,Customer 039,North,Enterprise
+C40040,Customer 040,Scotland,SMB
+C40041,Customer 041,East Midlands,SMB
+C40042,Customer 042,London,Enterprise
+C40043,Customer 043,London,Enterprise
+C40044,Customer 044,West Midlands,Mid-Market
+C40045,Customer 045,West Midlands,Enterprise
+C40046,Customer 046,Wales,SMB
+C40047,Customer 047,London,SMB
+C40048,Customer 048,North,SMB
+C40049,Customer 049,East Midlands,SMB
+C40050,Customer 050,West Midlands,Mid-Market
+C40051,Customer 051,West Midlands,SMB
+C40052,Customer 052,West Midlands,SMB
+C40053,Customer 053,Wales,SMB
+C40054,Customer 054,North,SMB
+C40055,Customer 055,Wales,Mid-Market
+C40056,Customer 056,London,SMB
+C40057,Customer 057,Scotland,Mid-Market
+C40058,Customer 058,East Midlands,Mid-Market
+C40059,Customer 059,Scotland,SMB
+C40060,Customer 060,North,Enterprise
+C40061,Customer 061,East Midlands,Enterprise
+C40062,Customer 062,Scotland,SMB
+C40063,Customer 063,London,Mid-Market
+C40064,Customer 064,East Midlands,SMB
+C40065,Customer 065,Wales,SMB
+C40066,Customer 066,North,Mid-Market
+C40067,Customer 067,North,Mid-Market
+C40068,Customer 068,North,Mid-Market
+C40069,Customer 069,East Midlands,Mid-Market
+C40070,Customer 070,West Midlands,Mid-Market
+C40071,Customer 071,Scotland,SMB
+C40072,Customer 072,London,SMB
+C40073,Customer 073,Wales,SMB
+C40074,Customer 074,West Midlands,SMB
+C40075,Customer 075,London,Mid-Market
+C40076,Customer 076,London,SMB
+C40077,Customer 077,East Midlands,SMB
+C40078,Customer 078,Scotland,SMB
+C40079,Customer 079,East Midlands,SMB
+C40080,Customer 080,London,SMB
+C40081,Customer 081,Wales,SMB
+C40082,Customer 082,Wales,SMB
+C40083,Customer 083,West Midlands,SMB
+C40084,Customer 084,London,SMB
+C40085,Customer 085,North,Enterprise
+C40086,Customer 086,Scotland,SMB
+C40087,Customer 087,West Midlands,SMB
+C40088,Customer 088,North,SMB
+C40089,Customer 089,Wales,Mid-Market
+C40090,Customer 090,Scotland,SMB
+C40091,Customer 091,Scotland,SMB
+C40092,Customer 092,Wales,Enterprise
+C40093,Customer 093,Wales,Enterprise
+C40094,Customer 094,North,SMB
+C40095,Customer 095,Wales,SMB
+C40096,Customer 096,London,SMB
+C40097,Customer 097,Scotland,SMB
+C40098,Customer 098,Wales,SMB
+C40099,Customer 099,East Midlands,Mid-Market
+C40100,Customer 100,Wales,SMB
+C40101,Customer 101,Scotland,SMB
+C40102,Customer 102,Wales,SMB
+C40103,Customer 103,Scotland,SMB
+C40104,Customer 104,East Midlands,SMB
+C40105,Customer 105,West Midlands,SMB
+C40106,Customer 106,East Midlands,SMB
+C40107,Customer 107,North,SMB
+C40108,Customer 108,London,SMB
+C40109,Customer 109,London,Mid-Market
+C40110,Customer 110,Scotland,SMB
+C40111,Customer 111,Scotland,SMB
+C40112,Customer 112,East Midlands,Enterprise
+C40113,Customer 113,Wales,Mid-Market
+C40114,Customer 114,London,SMB
+C40115,Customer 115,Scotland,SMB
+C40116,Customer 116,North,SMB
+C40117,Customer 117,London,SMB
+C40118,Customer 118,West Midlands,Enterprise
+C40119,Customer 119,West Midlands,SMB
+C40120,Customer 120,Scotland,SMB
+C40121,Customer 121,West Midlands,SMB
+C40122,Customer 122,West Midlands,SMB
+C40123,Customer 123,East Midlands,SMB
+C40124,Customer 124,Wales,SMB
+C40125,Customer 125,London,SMB
+C40126,Customer 126,London,Enterprise
+C40127,Customer 127,London,Mid-Market
+C40128,Customer 128,North,Enterprise
+C40129,Customer 129,London,Enterprise
+C40130,Customer 130,North,Enterprise
+C40131,Customer 131,West Midlands,Enterprise
+C40132,Customer 132,West Midlands,SMB
+C40133,Customer 133,Wales,SMB
+C40134,Customer 134,London,SMB
+C40135,Customer 135,Wales,Mid-Market
+C40136,Customer 136,Wales,Mid-Market
+C40137,Customer 137,Scotland,SMB
+C40138,Customer 138,North,Mid-Market
+C40139,Customer 139,Wales,Mid-Market
+C40140,Customer 140,East Midlands,Mid-Market
+C40141,Customer 141,London,SMB
+C40142,Customer 142,Scotland,SMB
+C40143,Customer 143,East Midlands,SMB
+C40144,Customer 144,West Midlands,SMB
+C40145,Customer 145,East Midlands,Mid-Market
+C40146,Customer 146,London,SMB
+C40147,Customer 147,North,SMB
+C40148,Customer 148,London,SMB
+C40149,Customer 149,East Midlands,SMB
+C40150,Customer 150,London,SMB
+C40151,Customer 151,Wales,Enterprise
+C40152,Customer 152,East Midlands,SMB
+C40153,Customer 153,Scotland,Enterprise
+C40154,Customer 154,West Midlands,SMB
+C40155,Customer 155,East Midlands,SMB
+C40156,Customer 156,East Midlands,Enterprise
+C40157,Customer 157,East Midlands,Mid-Market
+C40158,Customer 158,London,Mid-Market
+C40159,Customer 159,London,Mid-Market
+C40160,Customer 160,North,SMB
+C40161,Customer 161,East Midlands,Mid-Market
+C40162,Customer 162,North,SMB
+C40163,Customer 163,Scotland,Mid-Market
+C40164,Customer 164,East Midlands,Enterprise
+C40165,Customer 165,Scotland,Enterprise
+C40166,Customer 166,East Midlands,Mid-Market
+C40167,Customer 167,London,Mid-Market
+C40168,Customer 168,North,SMB
+C40169,Customer 169,Wales,SMB
+C40170,Customer 170,North,Enterprise
+C40171,Customer 171,London,Mid-Market
+C40172,Customer 172,Wales,SMB
+C40173,Customer 173,West Midlands,Mid-Market
+C40174,Customer 174,West Midlands,SMB
+C40175,Customer 175,London,Mid-Market
+C40176,Customer 176,East Midlands,Mid-Market
+C40177,Customer 177,East Midlands,SMB
+C40178,Customer 178,London,SMB
+C40179,Customer 179,East Midlands,Mid-Market
+C40180,Customer 180,North,SMB
+C40181,Customer 181,North,Enterprise
+C40182,Customer 182,London,SMB
+C40183,Customer 183,London,SMB
+C40184,Customer 184,East Midlands,SMB
+C40185,Customer 185,London,Mid-Market
+C40186,Customer 186,East Midlands,SMB
+C40187,Customer 187,London,Mid-Market
+C40188,Customer 188,Scotland,Enterprise
+C40189,Customer 189,Wales,Mid-Market
+C40190,Customer 190,West Midlands,SMB
+C40191,Customer 191,West Midlands,SMB
+C40192,Customer 192,Scotland,Enterprise
+C40193,Customer 193,Wales,SMB
+C40194,Customer 194,West Midlands,Enterprise
+C40195,Customer 195,Wales,Enterprise
+C40196,Customer 196,West Midlands,Mid-Market
+C40197,Customer 197,North,Mid-Market
+C40198,Customer 198,West Midlands,Enterprise
+C40199,Customer 199,West Midlands,Mid-Market
+C40200,Customer 200,Wales,Mid-Market
+C40201,Customer 201,London,SMB
+C40202,Customer 202,East Midlands,SMB
+C40203,Customer 203,Scotland,SMB
+C40204,Customer 204,East Midlands,Enterprise
+C40205,Customer 205,East Midlands,Mid-Market
+C40206,Customer 206,Wales,Mid-Market
+C40207,Customer 207,London,SMB
+C40208,Customer 208,East Midlands,Enterprise
+C40209,Customer 209,Wales,SMB
+C40210,Customer 210,West Midlands,Mid-Market
+C40211,Customer 211,North,SMB
+C40212,Customer 212,West Midlands,Enterprise
+C40213,Customer 213,North,Mid-Market
+C40214,Customer 214,Scotland,SMB
+C40215,Customer 215,Scotland,SMB
+C40216,Customer 216,London,SMB
+C40217,Customer 217,North,SMB
+C40218,Customer 218,Wales,SMB
+C40219,Customer 219,Wales,SMB
+C40220,Customer 220,Scotland,SMB
+C40221,Customer 221,London,SMB
+C40222,Customer 222,North,Mid-Market
+C40223,Customer 223,Wales,SMB
+C40224,Customer 224,West Midlands,SMB
+C40225,Customer 225,Scotland,Enterprise
+C40226,Customer 226,Scotland,SMB
+C40227,Customer 227,London,Mid-Market
+C40228,Customer 228,Wales,Enterprise
+C40229,Customer 229,London,Mid-Market
+C40230,Customer 230,Wales,SMB
+C40231,Customer 231,North,SMB
+C40232,Customer 232,East Midlands,Mid-Market
+C40233,Customer 233,Scotland,Mid-Market
+C40234,Customer 234,Scotland,SMB
+C40235,Customer 235,West Midlands,Mid-Market
+C40236,Customer 236,Scotland,Enterprise
+C40237,Customer 237,North,Mid-Market
+C40238,Customer 238,Wales,SMB
+C40239,Customer 239,West Midlands,SMB
+C40240,Customer 240,West Midlands,SMB
+C40241,Customer 241,East Midlands,SMB
+C40242,Customer 242,Scotland,Mid-Market
+C40243,Customer 243,Wales,SMB
+C40244,Customer 244,Scotland,SMB
+C40245,Customer 245,London,SMB
+C40246,Customer 246,Wales,Enterprise
+C40247,Customer 247,West Midlands,Enterprise
+C40248,Customer 248,Scotland,Mid-Market
+C40249,Customer 249,North,Enterprise
+C40250,Customer 250,Wales,Enterprise
+C40251,Customer 251,Wales,SMB
+C40252,Customer 252,London,SMB
+C40253,Customer 253,East Midlands,Mid-Market
+C40254,Customer 254,East Midlands,Mid-Market
+C40255,Customer 255,Scotland,SMB
+C40256,Customer 256,London,Enterprise
+C40257,Customer 257,East Midlands,SMB
+C40258,Customer 258,Scotland,Enterprise
+C40259,Customer 259,North,SMB
+C40260,Customer 260,East Midlands,SMB
+C40261,Customer 261,Scotland,Enterprise
+C40262,Customer 262,North,Mid-Market
+C40263,Customer 263,Wales,Mid-Market
+C40264,Customer 264,Wales,Mid-Market
+C40265,Customer 265,Wales,SMB
+C40266,Customer 266,Wales,SMB
+C40267,Customer 267,Scotland,SMB
+C40268,Customer 268,Scotland,SMB
+C40269,Customer 269,North,SMB
+C40270,Customer 270,Scotland,SMB
+C40271,Customer 271,Wales,SMB
+C40272,Customer 272,East Midlands,SMB
+C40273,Customer 273,East Midlands,SMB
+C40274,Customer 274,London,SMB
+C40275,Customer 275,West Midlands,Enterprise
+C40276,Customer 276,North,Enterprise
+C40277,Customer 277,West Midlands,Mid-Market
+C40278,Customer 278,Scotland,SMB
+C40279,Customer 279,Wales,Mid-Market
+C40280,Customer 280,West Midlands,SMB
+C40281,Customer 281,Scotland,SMB
+C40282,Customer 282,East Midlands,Enterprise
+C40283,Customer 283,Scotland,SMB
+C40284,Customer 284,Scotland,Enterprise
+C40285,Customer 285,Scotland,Mid-Market
+C40286,Customer 286,London,SMB
+C40287,Customer 287,East Midlands,SMB
+C40288,Customer 288,Wales,Mid-Market
+C40289,Customer 289,East Midlands,SMB
+C40290,Customer 290,London,SMB
+C40291,Customer 291,West Midlands,SMB
+C40292,Customer 292,Wales,Enterprise
+C40293,Customer 293,North,SMB
+C40294,Customer 294,North,Enterprise
+C40295,Customer 295,West Midlands,Mid-Market
+C40296,Customer 296,Scotland,SMB
+C40297,Customer 297,West Midlands,SMB
+C40298,Customer 298,Scotland,Mid-Market
+C40299,Customer 299,Wales,SMB
+C40224,Customer 224,West Midlands,SMB
+C40136,Customer 136,Wales,Mid-Market
+C40067,Customer 067,North,Mid-Market
